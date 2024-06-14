@@ -21,6 +21,7 @@ It is required to model the demand for shared bikes with the available independe
 We used Bike Sharing dataset - day.csv
 
 **Technologies Used**
+
 Python 3.10.4
 jupyter notebook
 Conclusions
